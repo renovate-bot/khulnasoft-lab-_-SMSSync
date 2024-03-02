@@ -30,7 +30,7 @@ ext {
 
     //Libraries
     daggerVersion = '2.8'
-    butterKnifeVersion = '8.4.0'
+    butterKnifeVersion = '8.8.1'
     javaxAnnotationVersion = '1.0'
     raiburariVersion = '2.20.0'
     cupboardVersion = '2.1.3'
