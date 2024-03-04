@@ -34,7 +34,7 @@ ext {
     javaxAnnotationVersion = '1.0'
     raiburariVersion = '2.20.0'
     cupboardVersion = '2.1.3'
-    wakefulVersion = '1.0.5'
+    wakefulVersion = '1.1.0'
     okHttpVersion = '3.6.0'
     twitter4jCoreVersion = '4.0.4'
     nineOldAndroidsVersion = '2.4.0'
