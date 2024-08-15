@@ -48,7 +48,7 @@ ext {
     jUnitVersion = '4.12'
     mockitoVersion = '1.10.19'
     dexmakerVersion = '1.2'
-    mockWebServerVersion = '3.6.0'
+    mockWebServerVersion = '3.14.9'
 
     appDependencies = [
             daggerCompiler     : "com.google.dagger:dagger-compiler:${daggerVersion}",
