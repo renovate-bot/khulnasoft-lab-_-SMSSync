@@ -29,7 +29,7 @@ ext {
     androidCompileSdkVersion = 23
 
     //Libraries
-    daggerVersion = '2.8'
+    daggerVersion = '2.55'
     butterKnifeVersion = '8.4.0'
     javaxAnnotationVersion = '1.0'
     raiburariVersion = '2.20.0'
